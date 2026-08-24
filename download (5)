@@ -1,0 +1,57 @@
+# Pluviometria e Vulnerabilidade Social em Áreas Sujeitas a Alagamento em São José dos Campos
+
+Projeto de extensão universitária vinculado à UNESP, voltado ao mapeamento do volume pluviométrico e da vulnerabilidade social em áreas de São José dos Campos (SP) sujeitas a alagamentos.
+
+Orientação: Profa. Liliam.
+
+## Sobre o projeto
+
+O projeto integra dados pluviométricos, geoespaciais e socioeconômicos para identificar áreas de maior risco de alagamento e maior vulnerabilidade social na cidade, subsidiando ações preventivas e de apoio à população afetada.
+
+## Objetivos
+
+- Mapear o volume pluviométrico em áreas historicamente sujeitas a alagamento em São José dos Campos.
+- Cruzar os dados pluviométricos com indicadores de vulnerabilidade social.
+- Propor soluções baseadas na natureza (SbN) para mitigação de riscos.
+- Promover diálogo participativo com as comunidades afetadas.
+
+## Estrutura do projeto
+
+O projeto está organizado em três frentes:
+
+1. **Dados e mapeamento** — coleta, tratamento e análise de dados pluviométricos e geoespaciais.
+2. **Social e participativo** — diagnóstico participativo junto às comunidades em áreas de risco.
+3. **Soluções baseadas na natureza** — proposição de intervenções de infraestrutura verde.
+
+## Parceiros institucionais
+
+- CEMADEN
+- INMET
+- DAEE
+- IBGE / IPEA
+- Defesa Civil de São José dos Campos
+
+## Cronograma
+
+O projeto conta com um cronograma de atividades de 7 meses, cobrindo desde a coleta e tratamento de dados até a devolutiva às comunidades participantes.
+
+## Status
+
+Projeto em desenvolvimento, com submissão em análise junto ao Comitê de Ética em Pesquisa (CEP).
+
+## Repositório
+
+Este repositório reúne a documentação do projeto e os scripts em Python utilizados na análise dos dados pluviométricos de São José dos Campos.
+
+```
+.
+├── docs/           # Página do projeto (GitHub Pages)
+├── data/           # Dados brutos e tratados
+├── notebooks/      # Análises exploratórias
+├── src/            # Scripts de processamento e análise
+└── README.md
+```
+
+## Página do projeto
+
+A documentação completa do projeto está disponível em: `https://<seu-usuario>.github.io/pluviometria-vulnerabilidade-sjc/`
